@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1637210297 source:c:\users\uchenik\desktop\middle_str-main\addons.cpp
+	"middle_str.h"
+
+1637224220 c:\users\uchenik\desktop\middle_str-main\middle_str.h
+	<iostream>
+	<string>
+
+1637210297 source:c:\users\uchenik\desktop\middle_str-main\itc_cezar.cpp
+	"middle_str.h"
+
+1637210297 source:c:\users\uchenik\desktop\middle_str-main\itc_changecase.cpp
+	"middle_str.h"
+
+1637210297 source:c:\users\uchenik\desktop\middle_str-main\itc_countwords.cpp
+	"middle_str.h"
+
+1637210297 source:c:\users\uchenik\desktop\middle_str-main\itc_dectobase.cpp
+	"middle_str.h"
+
+1637210297 source:c:\users\uchenik\desktop\middle_str-main\itc_isdigit.cpp
+	"middle_str.h"
+
+1637210297 source:c:\users\uchenik\desktop\middle_str-main\itc_isfirstinsecond.cpp
+	"middle_str.h"
+
+1637210297 source:c:\users\uchenik\desktop\middle_str-main\itc_samechar.cpp
+	"middle_str.h"
+
+1637210297 source:c:\users\uchenik\desktop\middle_str-main\itc_toupper.cpp
+	"middle_str.h"
+
+1637224170 source:c:\users\uchenik\desktop\middle_str-main\main.cpp
+	<iostream>
+	"middle_str.h"
+
+1637224535 source:c:\users\uchenik\desktop\middle_str-main\itc_ñompare.cpp
+	"middle_str.h"
+
+1637224543 source:c:\users\uchenik\desktop\middle_str-main\itc_dectobin.cpp
+	"middle_str.h"
+
+1637224563 source:c:\users\uchenik\desktop\middle_str-main\itc_isip.cpp
+	"middle_str.h"
+
+1637224655 source:c:\users\uchenik\desktop\middle_str-main\itc_rmfreespace.cpp
+	"middle_str.h"
+
+1637224751 source:c:\users\uchenik\desktop\middle_str-main\itc_maxcharword.cpp
+	"middle_str.h"
+
